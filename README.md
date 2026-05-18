@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
@@ -168,7 +166,8 @@
     <!-- ========== 1 · INTRO ========== -->
     <section id="intro" class="hero">
       <h1>Buongiorno</h1>
-      <p class="subtitle">Hochzeit von Teresa &amp; Benedikt</p>
+      <p class="subtitle">Hochzeit von Teresa &amp; Benedikt </br>
+      11.-13. September 2026</p>
     </section>
 
     <!-- ========== 2 & 3 · FRAGEBOGEN + DRESSCODE (side-by-side) ========== -->

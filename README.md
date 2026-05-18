@@ -1,5 +1,5 @@
 # hochzeit
-Alle Infos für die Hochzeit von Teresa und Ben...
+Alle Infos für die Hochzeit von Teresa und Benedikt...
 <!DOCTYPE html>
 <html lang="de">
 <head>

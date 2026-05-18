@@ -1,5 +1,4 @@
-# hochzeit
-Alle Infos für die Hochzeit von Teresa und Benedikt...
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -164,18 +163,6 @@ Alle Infos für die Hochzeit von Teresa und Benedikt...
 
 <body>
 
-  <!-- ============================================================
-       ANCHOR NAVIGATION — links jump to each section below
-       ============================================================ -->
-  <nav class="top-nav" aria-label="Seitennavigation">
-    <ul>
-      <li><a href="#intro">Intro</a></li>
-      <li><a href="#fragebogen">Fragebogen</a></li>
-      <li><a href="#dresscode">Dresscode</a></li>
-      <li><a href="#informationen">Informationen</a></li>
-    </ul>
-  </nav>
-
   <main>
 
     <!-- ========== 1 · INTRO ========== -->
@@ -190,7 +177,7 @@ Alle Infos für die Hochzeit von Teresa und Benedikt...
       <section id="fragebogen" class="card">
         <h2>Fragebogen</h2>
         <p>
-          Bitte füllt uns den kurzen Fragebogen bis 7. Juni aus,
+          Bitte füllt uns den kurzen Fragebogen bis 11. Juni aus,
           damit wir alle Details final planen können.
         </p>
         <a class="btn" href="https://forms.gle/WrqTDdghRBZXCGFN6" target="_blank" rel="noopener">Zum Fragebogen</a>
